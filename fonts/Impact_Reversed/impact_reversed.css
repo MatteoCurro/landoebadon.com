@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'ImpactLabelReversedRegular';
+    src: url('impact_reversed.eot');
+    src: url('impact_reversed.eot') format('embedded-opentype'),
+         url('impact_reversed.woff') format('woff'),
+         url('impact_reversed.ttf') format('truetype'),
+         url('impact_reversed.svg#ImpactLabelReversedRegular') format('svg');
+}
