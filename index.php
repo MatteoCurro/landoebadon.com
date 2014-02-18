@@ -1,5 +1,4 @@
 <?php require('header.php'); ?>
-<!-- commento prova con chain -->
 	<div class="video step" data-section="home" data-appear-top-offset="300">
 		<video id="video_background" preload="auto" autoplay="true" loop="loop" muted="muted" volume="0" poster="videos/landoebadon.png" style="background-color: black;">
 		<source src="videos/landoebadon.webm" type="video/webm">
